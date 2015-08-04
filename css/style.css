@@ -1,0 +1,21 @@
+body {
+  background-image: url("https://media2.giphy.com/media/quEsMOrr3hmQ8/200.gif");
+}
+h1 {
+  font-size:50px;
+  color:White;
+  font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+}
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+  font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+  color:White;
+  font-size:15px;
+  position:relative;
+  text-align:center;
+}
